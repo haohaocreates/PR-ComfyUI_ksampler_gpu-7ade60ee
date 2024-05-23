@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_ksampler_gpu"
+description = "KSampler is provided, based on GPU random noise"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/dawangraoming/ComfyUI_ksampler_gpu"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_ksampler_gpu"
+Icon = ""
